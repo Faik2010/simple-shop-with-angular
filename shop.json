@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "asus",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 2,
+      "name": "mouse",
+      "price": 40,
+      "categoryId": 2,
+      "description": "a4tech",
+      "imageUrl": "https://img.freepik.com/premium-photo/top-view-black-computer-mouse-isolated-white-background_64749-1615.jpg?size=626&ext=jpg&ga=GA1.2.2043668259.1660112447"
+    },
+    {
+      "name": "Telefon",
+      "description": "IPhone 8",
+      "imageUrl": "https://img.freepik.com/free-psd/premium-mobile-phone-screen-mockup-template_53876-76459.jpg?size=626&ext=jpg&ga=GA1.2.2043668259.1660112447",
+      "price": "5000",
+      "categoryId": "2",
+      "id": 3
+    },
+    {
+      "name": "Buzdolabı",
+      "description": "Arçelik",
+      "imageUrl": "https://img.freepik.com/free-vector/refrigerator-closed-opened-door-with-lots-food_1308-103210.jpg?size=626&ext=jpg&ga=GA1.2.2043668259.1660112447",
+      "price": "3000",
+      "categoryId": "2",
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 2,
+      "name": "Elektronik"
+    }
+  ]
+}
